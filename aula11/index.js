@@ -80,5 +80,12 @@ const num1= 10;
 const num2 = 'Juliana'
 console.log(num1 * num2);
 
+// parseInt(inteiro), parseFloat(decimal)
+
+const num1 = 10;
+const num2 = number (15)
+console.log(num1 + num2)
+console.log(typeof num2)
+
 
 
