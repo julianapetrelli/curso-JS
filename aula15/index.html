@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula 15</title>
+</head>
+<body>
+    <script>
+        const num = parseFloat(window.prompt('Digite um número:'));
+        const raizQuadrada = ((Math.sqrt(num)).toFixed(2));
+        const inteiro = (Number.isInteger(num));
+        const error = (Number.isNaN(num));
+        const arredondarParaBaixo = (Math.floor(num));
+        const arredondarParaCima = (Math.ceil(num));
+        const decimal = (num.toFixed(2));
+
+        document.body.innerHTML = `<h2> Seu número é o ${num} </h2>`
+        document.body.innerHTML += `A raiz quadrada do seu número é ${raizQuadrada} <br>` 
+        document.body.innerHTML += `É inteiro: ${inteiro} <br>`
+        document.body.innerHTML += `É Not-A-Number: ${error} <br>`
+        document.body.innerHTML += `Arredondando para baixo: ${arredondarParaBaixo} <br>`
+        document.body.innerHTML += `Arredondando para cima: ${arredondarParaCima} <br>`
+        document.body.innerHTML += `Com duas casas decimais: ${decimal} <br>`
+    </script>
+</body>
+</html>

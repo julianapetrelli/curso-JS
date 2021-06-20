@@ -1,43 +1,43 @@
-# Curso JavaScript e TypeScript
+<h1 align="center"> Javascript e TypeScript - front-end e back-end (Full Stack) </h1>
 
-Sobre o curso: Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns (144 horas)
+<div align="center">
+    <strong> Sobre este curso: </strong> Javascript moderno (ES6+) para front-end (com Webpack, babel, React, React Hooks, Redux, HTML5, CSS3 e mais) e back-end (com Node, Express, MySQL / MariaDB, MongoDB, PostgreSQL, Next.Js, Strapi e mais). 
+</div>
 
-### Métodos e funções
----
+<h3 align="center"> Índice </h3>
 
-**.console.log():** Console é um objeto, e o log() é apenas um método deste objeto. Este método de console vai enviar os dados diretamente para o console do navegador. Há diversos outros métodos, como:
+**Aula 1 e 2:** Apresentação e instação
 
-- error();
-- warn();
-- clear();
-- time();
-- table();
-- count();
-- group();
-- e o próprio log();
+**Aula 3:** console.log( )
 
-Cada um tem a sua utilização específica, o **log()** tem como sua função emitir mensagens de depuração do sistema.
+**Aula 4:** Comentário Visual Studio Code
 
-**let:** Utilizado para declarar variáveis;
+**Aula 5:** Navegador vs Node (HTML + JavaScript)
 
-**const:** A declaração const cria uma variável cujo o valor é fixo, ou seja, uma constante somente leitura. Isso não significa que o valor é imutável, apenas que a variável constante não pode ser alterada ou retribuída.
+**Aula 6:** let
 
-**typeof:** O operador typeof retorna uma string indicando o tipo de um operando.
+**Aula 7:** const
 
-**parseInt():** A função parseInt() analisa um argumento string e retorna um inteiro na base especificada.
+**Aula 8:** Exercícios - Const e Let
 
-## Tipos de dados primitivos
+**Aula 9:** var
 
+**Aula 10:** Tipos primitivos
 
-No JavaScript, existem 6 tipos primitivos:
+**Aula 11:** Operadores aritméticos, de atribuição e incremento
 
-- String
-- Number
-- Boolean
-- Null
-- undefined
-- Symbol (novo no ECMAScript (en-US) 6)
+**Aula12:** Alert, confirm e prompt (exercício)
 
-Todos os primitivos são imutáveis (não podem ter o seu valor modificado).
+**Aula13:** Mais sobre strings
 
-![example](https://i.imgur.com/pDFm8vs.png)
+**Aula14:** Exercícios com strings
+
+**Aula15:** Mais sobre numbers
+
+**Aula16:** Objetos Math
+
+**Aula17:** Array Básico
+
+**Aula18:** Função e objeto
+
+**aula19:** Valores primitivos e valores por referência
