@@ -1,3 +1,9 @@
+
+<div align="center">
+ <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img alt="Typescript" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+</div>
+
 <h1 align="center"> Javascript e TypeScript - front-end e back-end (Full Stack) </h1>
 
 <div align="center">
