@@ -1,3 +1,9 @@
+
+<div align="center">
+ <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img alt="Typescript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+</div>
+
 <h1 align="center"> Javascript e TypeScript - front-end e back-end (Full Stack) </h1>
 
 <div align="center">
